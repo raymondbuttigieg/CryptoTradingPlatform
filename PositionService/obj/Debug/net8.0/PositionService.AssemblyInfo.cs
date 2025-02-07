@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PositionService")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a3b92754cd07584cac22fb2b0bc6db307c8c08a9")]
 [assembly: System.Reflection.AssemblyProductAttribute("PositionService")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PositionService")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

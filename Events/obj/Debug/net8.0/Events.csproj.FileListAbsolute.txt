@@ -1,0 +1,12 @@
+F:\desktop\CryptoTradingPlatform\Events\bin\Debug\net8.0\Events.deps.json
+F:\desktop\CryptoTradingPlatform\Events\bin\Debug\net8.0\Events.dll
+F:\desktop\CryptoTradingPlatform\Events\bin\Debug\net8.0\Events.pdb
+F:\desktop\CryptoTradingPlatform\Events\obj\Debug\net8.0\Events.GeneratedMSBuildEditorConfig.editorconfig
+F:\desktop\CryptoTradingPlatform\Events\obj\Debug\net8.0\Events.AssemblyInfoInputs.cache
+F:\desktop\CryptoTradingPlatform\Events\obj\Debug\net8.0\Events.AssemblyInfo.cs
+F:\desktop\CryptoTradingPlatform\Events\obj\Debug\net8.0\Events.csproj.CoreCompileInputs.cache
+F:\desktop\CryptoTradingPlatform\Events\obj\Debug\net8.0\Events.sourcelink.json
+F:\desktop\CryptoTradingPlatform\Events\obj\Debug\net8.0\Events.dll
+F:\desktop\CryptoTradingPlatform\Events\obj\Debug\net8.0\refint\Events.dll
+F:\desktop\CryptoTradingPlatform\Events\obj\Debug\net8.0\Events.pdb
+F:\desktop\CryptoTradingPlatform\Events\obj\Debug\net8.0\ref\Events.dll

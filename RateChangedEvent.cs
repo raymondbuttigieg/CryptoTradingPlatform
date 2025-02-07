@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Shared.Events.RateChangedEvent
+namespace Shared.Events
 {
     public class RateChangedEvent : IEvent
     {

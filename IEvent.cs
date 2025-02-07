@@ -1,6 +1,6 @@
 using System;
 
-namespace Shared.IEvent
+namespace Shared.Events
 {
 	public interface IEvent
 	{

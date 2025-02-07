@@ -3,12 +3,40 @@
   "WorkspaceRootPath": "F:\\desktop\\CryptoTradingPlatform\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C39DD3AE-9208-4F3B-8048-EC21E0079063}|RatesService\\RatesService.csproj|f:\\desktop\\cryptotradingplatform\\ratesservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{C39DD3AE-9208-4F3B-8048-EC21E0079063}|RatesService\\RatesService.csproj|solutionrelative:ratesservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{9F40CEEF-27FB-430C-B53C-A6CF46AA5730}|CryptoDisplay\\CryptoDisplay.csproj|f:\\desktop\\cryptotradingplatform\\cryptodisplay\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F40CEEF-27FB-430C-B53C-A6CF46AA5730}|CryptoDisplay\\CryptoDisplay.csproj|solutionrelative:cryptodisplay\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C39DD3AE-9208-4F3B-8048-EC21E0079063}|RatesService\\RatesService.csproj|f:\\desktop\\cryptotradingplatform\\ratesservice\\controllers\\ratescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C39DD3AE-9208-4F3B-8048-EC21E0079063}|RatesService\\RatesService.csproj|solutionrelative:ratesservice\\controllers\\ratescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C39DD3AE-9208-4F3B-8048-EC21E0079063}|RatesService\\RatesService.csproj|f:\\desktop\\cryptotradingplatform\\ratesservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C39DD3AE-9208-4F3B-8048-EC21E0079063}|RatesService\\RatesService.csproj|solutionrelative:ratesservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C39DD3AE-9208-4F3B-8048-EC21E0079063}|RatesService\\RatesService.csproj|f:\\desktop\\cryptotradingplatform\\ratesservice\\services\\ratesfetcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C39DD3AE-9208-4F3B-8048-EC21E0079063}|RatesService\\RatesService.csproj|solutionrelative:ratesservice\\services\\ratesfetcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C39DD3AE-9208-4F3B-8048-EC21E0079063}|RatesService\\RatesService.csproj|f:\\desktop\\cryptotradingplatform\\ratesservice\\ratesservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{C39DD3AE-9208-4F3B-8048-EC21E0079063}|RatesService\\RatesService.csproj|solutionrelative:ratesservice\\ratesservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36AA374F-2C12-43DC-A1EA-7A9E36AF0624}|Events\\Events.csproj|f:\\desktop\\cryptotradingplatform\\events\\ratechangedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36AA374F-2C12-43DC-A1EA-7A9E36AF0624}|Events\\Events.csproj|solutionrelative:events\\ratechangedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36AA374F-2C12-43DC-A1EA-7A9E36AF0624}|Events\\Events.csproj|f:\\desktop\\cryptotradingplatform\\events\\ievent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36AA374F-2C12-43DC-A1EA-7A9E36AF0624}|Events\\Events.csproj|solutionrelative:events\\ievent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C39DD3AE-9208-4F3B-8048-EC21E0079063}|RatesService\\RatesService.csproj|f:\\desktop\\cryptotradingplatform\\ratesservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C39DD3AE-9208-4F3B-8048-EC21E0079063}|RatesService\\RatesService.csproj|solutionrelative:ratesservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C39DD3AE-9208-4F3B-8048-EC21E0079063}|RatesService\\RatesService.csproj|f:\\desktop\\cryptotradingplatform\\ratesservice\\models\\coinmarketresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C39DD3AE-9208-4F3B-8048-EC21E0079063}|RatesService\\RatesService.csproj|solutionrelative:ratesservice\\models\\coinmarketresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,19 +51,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\desktop\\CryptoTradingPlatform\\CryptoDisplay\\Program.cs",
+              "RelativeDocumentMoniker": "CryptoDisplay\\Program.cs",
+              "ToolTip": "F:\\desktop\\CryptoTradingPlatform\\CryptoDisplay\\Program.cs",
+              "RelativeToolTip": "CryptoDisplay\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T14:35:59.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "appsettings.json",
               "DocumentMoniker": "F:\\desktop\\CryptoTradingPlatform\\RatesService\\appsettings.json",
               "RelativeDocumentMoniker": "RatesService\\appsettings.json",
               "ToolTip": "F:\\desktop\\CryptoTradingPlatform\\RatesService\\appsettings.json",
               "RelativeToolTip": "RatesService\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-04T18:15:37.24Z",
+              "WhenOpened": "2025-02-07T14:26:13.668Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "RatesController.cs",
+              "DocumentMoniker": "F:\\desktop\\CryptoTradingPlatform\\RatesService\\Controllers\\RatesController.cs",
+              "RelativeDocumentMoniker": "RatesService\\Controllers\\RatesController.cs",
+              "ToolTip": "F:\\desktop\\CryptoTradingPlatform\\RatesService\\Controllers\\RatesController.cs",
+              "RelativeToolTip": "RatesService\\Controllers\\RatesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T14:20:06.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "RatesService",
               "DocumentMoniker": "F:\\desktop\\CryptoTradingPlatform\\RatesService\\RatesService.csproj",
               "RelativeDocumentMoniker": "RatesService\\RatesService.csproj",
@@ -43,7 +97,72 @@
               "RelativeToolTip": "RatesService\\RatesService.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-04T18:12:33.476Z",
+              "WhenOpened": "2025-02-07T13:51:04.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RateChangedEvent.cs",
+              "DocumentMoniker": "F:\\desktop\\CryptoTradingPlatform\\Events\\RateChangedEvent.cs",
+              "RelativeDocumentMoniker": "Events\\RateChangedEvent.cs",
+              "ToolTip": "F:\\desktop\\CryptoTradingPlatform\\Events\\RateChangedEvent.cs",
+              "RelativeToolTip": "Events\\RateChangedEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T13:49:03.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IEvent.cs",
+              "DocumentMoniker": "F:\\desktop\\CryptoTradingPlatform\\Events\\IEvent.cs",
+              "RelativeDocumentMoniker": "Events\\IEvent.cs",
+              "ToolTip": "F:\\desktop\\CryptoTradingPlatform\\Events\\IEvent.cs",
+              "RelativeToolTip": "Events\\IEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T13:48:56.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CoinMarketResponse.cs",
+              "DocumentMoniker": "F:\\desktop\\CryptoTradingPlatform\\RatesService\\Models\\CoinMarketResponse.cs",
+              "RelativeDocumentMoniker": "RatesService\\Models\\CoinMarketResponse.cs",
+              "ToolTip": "F:\\desktop\\CryptoTradingPlatform\\RatesService\\Models\\CoinMarketResponse.cs",
+              "RelativeToolTip": "RatesService\\Models\\CoinMarketResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T20:43:36.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RatesFetcher.cs",
+              "DocumentMoniker": "F:\\desktop\\CryptoTradingPlatform\\RatesService\\Services\\RatesFetcher.cs",
+              "RelativeDocumentMoniker": "RatesService\\Services\\RatesFetcher.cs",
+              "ToolTip": "F:\\desktop\\CryptoTradingPlatform\\RatesService\\Services\\RatesFetcher.cs",
+              "RelativeToolTip": "RatesService\\Services\\RatesFetcher.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAUwCoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T19:09:24.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\desktop\\CryptoTradingPlatform\\RatesService\\Program.cs",
+              "RelativeDocumentMoniker": "RatesService\\Program.cs",
+              "ToolTip": "F:\\desktop\\CryptoTradingPlatform\\RatesService\\Program.cs",
+              "RelativeToolTip": "RatesService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T19:03:20.545Z",
               "EditorCaption": ""
             }
           ]

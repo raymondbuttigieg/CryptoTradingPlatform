@@ -1,6 +1,6 @@
 @RatesService_HostAddress = http://localhost:5073
 
-GET {{RatesService_HostAddress}}/weatherforecast/
+GET {{RatesService_HostAddress}}/RatesFetcher/
 Accept: application/json
 
 ###

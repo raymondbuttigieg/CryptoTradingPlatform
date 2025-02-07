@@ -1,5 +1,6 @@
-﻿using RatesService.Models;
-using Shared
+﻿using Events;
+using RatesService.Models;
+
 namespace RatesService.Services
 {
     public class RatesFetcher
@@ -35,7 +36,13 @@ namespace RatesService.Services
                     Console.WriteLine($"Percentage exeded old rate :{oldRate}, New rate : {currentRate}, Percentage Change :{percentageChange}");
 
                     // should publish a notification to rabbitMQ
-                    var rateChanged = new RateChangedEvent 
+                    var rateChanged = new RateChangedEvent
+                    {
+                        InstrumentId = crypto.Symbol,
+                        OldRate = oldRate,
+                        NewRate = currentRate,
+                        PercentageChange = percentageChange
+                    }; 
                 
                 }
 

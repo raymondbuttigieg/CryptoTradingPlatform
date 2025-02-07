@@ -88,6 +88,16 @@
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
         ]
+      },
+      "Events/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Events.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Events.dll": {}
+        }
       }
     }
   },
@@ -439,10 +449,16 @@
         "swashbuckle.aspnetcore.swaggerui.6.6.2.nupkg.sha512",
         "swashbuckle.aspnetcore.swaggerui.nuspec"
       ]
+    },
+    "Events/1.0.0": {
+      "type": "project",
+      "path": "../Events/Events.csproj",
+      "msbuildProject": "../Events/Events.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "Events >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.6.2"
     ]
   },
@@ -479,7 +495,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "F:\\desktop\\CryptoTradingPlatform\\Events\\Events.csproj": {
+              "projectPath": "F:\\desktop\\CryptoTradingPlatform\\Events\\Events.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
